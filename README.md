@@ -8,17 +8,17 @@ This specific repository focuses on tools for Vasculature and DAPI analysis in m
 If you're interested in performing Microglia and Astrocyte analysis in addition to DAPI and Vasculature, please refer to the main repository here.  * will soon be out **** 
 
 
-# Data Preparation
+## Data Preparation
 
 
 
-# Environment and Set up
+## Environment and Set up
 
 
 
-# How to perform DAPI Analysis ?
+## How to perform DAPI Analysis ?
 
 
 
-# How to perform Vasculature Analysis ?
+## How to perform Vasculature Analysis ?
 
