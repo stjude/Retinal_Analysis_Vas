@@ -1,0 +1,22 @@
+name: retinal_analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyter
+  - pip:
+      - torch
+      - torchvision
+      - tifffile
+      - nnunet
+      - nnunetv2
+      - scipy
+      - pathlib
+      - scikit-image
+      - connected-components-3d
+      - pandas
+      - skan
+      - pickle-mixin
+      - napari[all]
+
