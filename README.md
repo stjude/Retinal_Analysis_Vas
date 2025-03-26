@@ -1,7 +1,7 @@
 # Retinal Analysis
 Software and tools to perform Vasculature and DAPI analysis on mouse retina
 
-This is a submodule that's part of a larger project which includes four pipelines for analyzing different aspects of the retina.
+This is a submodule that's part of a larger project to perform retinal analysis.
 
 This specific repository focuses on tools for Vasculature and DAPI analysis in mouse retina.
 
