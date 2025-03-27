@@ -3,8 +3,8 @@ Software and tools to perform Vasculature and DAPI analysis on mouse retina
 
 This is a submodule that's part of a larger project to perform retinal analysis.
 
-If you're interested in performing Microglia and Astrocyte analysis in addition to DAPI and Vasculature, please stay tuned
-repo soon to be released for comprehensive four pipeline retinal analysis.
+If you're interested in performing Microglia and Astrocyte analysis in addition to DAPI and Vasculature, please stay tuned.
+Repo soon to be released for comprehensive four pipeline retinal analysis.
 
 
 ## Environment and Set up
