@@ -60,7 +60,7 @@ For each sample, there will be a "C4-DAPI-XZ_reconstructed_cleaned_xy.tif". This
 
 The 3D sample output will look like below,
 
-![alt text](sample_output/DAPI_layers.gif)
+![alt text](sample_output/sickle_DAPI_layers.gif)
 
 
 
@@ -78,5 +78,5 @@ The final instance segmentation output file is "C1-Icam2-Blood-Vessels_branch_la
 
 A 3D segmentation output will look like below,
 
-![alt text](sample_output/bloodvessel.gif)
+![alt text](sample_output/sickle_bv.gif)
 
