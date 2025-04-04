@@ -4,27 +4,6 @@ Software and tools to perform Vasculature and DAPI analysis on mouse retina
 This is a submodule that's part of a larger project to perform retinal analysis. Please stay tuned for more retinal analysis with microglia and astrocyte quantifications.
 
 
-## Environment and Set up
-
-For data preparation, we use a FIJI macro. Please refer to the data preparation section for more details.
-
-To execute the DAPI and Vasculature pipelines after data preparation, we need a python environment. The environment with dependicies can be found inside the environment.yml 
-
-To set up the environment in conda you can run the following commands,
-
-```
-conda env create -f environment.yml
-```
-
-Activate the environment,
-```
-conda activate retinal_analysis
-```
-Once the environment is activate, the python notebooks inside 2_DAPI_Analysis and 3_Vasculature_Analysis can be executed. 
-
-Note: To run vasculature, DAPI outputs are a prerequisite
-
-
 ## Data Preparation
 
 The susequent DAPI and Vasculature analyses, expects the data be of the following folder structure. For each sample, there should be a folder with two subfolder called , raw and isotropic. Inside isotropic we need three files, DAPI stack, DAPI stack in XZ cross sectional view and blood vessel stack. A Sample structure would look like this 
